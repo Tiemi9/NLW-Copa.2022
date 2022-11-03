@@ -10,7 +10,7 @@ Durante o evento a proposta foi criar um calendário respondivo da Copa do Mundo
 - VERSÃO YELLOW <br>
   ![preview](./.github/preview-yellow.png)
 
-  - VERSÃO BLUE
+  - VERSÃO BLUE <br>
     [Clique aqui para acessar!!👈](https://tiemi9.github.io/NLW-Copa.2022/)
 
 ## 📡 Tecnologias
