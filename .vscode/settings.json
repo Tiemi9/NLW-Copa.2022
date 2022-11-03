@@ -1,9 +1,9 @@
 {
   // editor
   "editor.wordWrap": "on",
-  "editor.fontSize": 12,
-  "editor.lineHeight": 20,
-  "editor.tabSize": 8,
+  "editor.fontSize": 10,
+  "editor.lineHeight": 15,
+  "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
   "editor.minimap.enabled": false,
@@ -26,7 +26,7 @@
   "prettier.semi": false,
 
   // terminal
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 12,
   "terminal.integrated.profiles.windows": {
     "Git Bash": {
       "source": "Git Bash"
