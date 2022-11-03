@@ -3,10 +3,10 @@
 > NLW - Rocketseat 🚀
 
 - VERSÃO WEB - GREEN
-  ![preview](./.github/preview.png)
+  ![preview](./.github/preview-green.png)
 
 - VERSÃO MOBILE - YELLOW
-  ![preview](./.github/preview.png)
+  ![preview](./.github/preview-yellow.png)
 
 Durante o evento a proposta foi criar um calendário respondivo da Copa do Mundo de 2022, com cores personalizaveis, dados imseridos de forma 'dinâmica'.
 
