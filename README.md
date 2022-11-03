@@ -2,15 +2,16 @@
 
 > NLW - Rocketseat 🚀
 
-- VERSÃO WEB - GREEN
-  ![preview](./.github/preview-green.png)
-
-- VERSÃO MOBILE - YELLOW
-  ![preview](./.github/preview-yellow.png)
-
 Durante o evento a proposta foi criar um calendário respondivo da Copa do Mundo de 2022, com cores personalizaveis, dados imseridos de forma 'dinâmica'.
 
-[Clique aqui para acessar!!👈](https://tiemi9.github.io/NLW-Copa.2022/)
+- VERSÃO GREEN
+  ![preview](./.github/preview-green.png)
+
+- VERSÃO YELLOW <br>
+  ![preview](./.github/preview-yellow.png)
+
+  - VERSÃO BLUE
+    [Clique aqui para acessar!!👈](https://tiemi9.github.io/NLW-Copa.2022/)
 
 ## 📡 Tecnologias
 
